@@ -5,7 +5,9 @@ Auto-correct terms are typically managed by the keyboard applications on mobile 
 
 ## Gboard
 
-1. First install Gboard from the Google Play store on Android or Apple Store on IOS.
+1. If Gboard is not already installed on your device:
+    1. Install Gboard from the Google Play store on Android or Apple Store on IOS.
+    2. Open the Gboard app, and follow the instructions to set it as your default keyboard.
 2. Download the zip file from this [google drive link](https://drive.google.com/file/d/1Ev_UiXt6Dx8Zp8lLa1sIRi_Vsk1OMxEi/view?usp=sharing). Note Gboard is extremely finnicky on the zip file, 
 and it's possible it won't recognize this file as valid on your phone (something to do w/ compression algorithm or metadata). 
     1. If this file isn't recognized, you can try unzipping the file, downloading it on your phone, and zipping the file on your phone. Hopefully Gboard will recognize this locally compressed file.
